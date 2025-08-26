@@ -172,14 +172,8 @@
 
 ### Code Convention
 >BE
-> - 패키지명 전체 소문자
-> - 클래스명, 인터페이스명 CamelCase
-> - 클래스 이름 명사 사용
-> - 상수명 SNAKE_CASE
-> - Controller, Service, Dto, Repository, mapper 앞에 접미사로 통일(ex. MemberController)
-> - service 계층 메서드명 create, update, find, delete로 CRUD 통일(ex. createMember) 
-> - Test 클래스는 접미사로 Test 사용(ex. memberFindTest)
-
+> - Python Black : 코드 스타일을 일관성 있게 유지하고 가독성을 높이기 위해 코드 포맷터 사용 ( 들여쓰기, 라인 길이, 공백 등의 세부 스타일 자동으로 지정 )
+> - Isort : Python코드의 import문을 정렬
 
 > FE
 > - 모든 작업은 **이슈 생성 → 브랜치 생성 → 작업 → PR(develop 브랜치에)** 순으로 진행합니다.
