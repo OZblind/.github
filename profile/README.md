@@ -48,7 +48,7 @@
 
 ### :wrench: System Architecture
 
-<img width="1000" alt="arch_bgx" src="https://github.com/user-attachments/assets/ec4c7099-a91d-42a8-a28b-1df0ba86dcca" />
+<img width="1000" alt="arch_bgx" src="https://github.com/user-attachments/assets/9a04f1d3-47cf-4f5c-8e1d-8db42e18d189" />
 
 ### FE
 <div align=center>
