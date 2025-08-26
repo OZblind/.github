@@ -1,11 +1,11 @@
 ## 💜 프로젝트 소개
 
 >부트캠프 끝나면 끝❓ 아니, 새로운 시작이다❗️<br/>
-오즈코딩스쿨 수강생들이 모여 만들어가는 내부 전용 커뮤니티, `OZblind`.<br/>
+오즈코딩스쿨 수강생들이 모여 만들어가는 내부 전용 커뮤니티, `오즈의 여섯 가지 그림자`.<br/>
 익명으로 자유롭게 소통하며 선·후배 기수와 연결되고,
 취업·창업 경험과 최신 트렌드를 함께 나눌 수 있습니다.<br/>
 수료 이후에도 계속 이어지는 성장과 네트워킹,
-`OZblind`에 오신 걸 환영합니다!
+`오즈의 여섯 가지 그림자`에 오신 걸 환영합니다!
 ---
 ## :link: 배포 링크
 
@@ -51,7 +51,7 @@
 
 ### :wrench: System Architecture
 
-<img src="https://user-images.githubusercontent.com/90237119/215304129-d8006105-cf1c-49c7-a819-4f819dfac523.png"/>
+<img width="800" alt="arch_bgx" src="https://github.com/user-attachments/assets/ec4c7099-a91d-42a8-a28b-1df0ba86dcca" />
 
 ### FE
 <div align=center>
@@ -82,20 +82,24 @@
 
 ### BE
 <div align=center> 
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/redis-D0271D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
+  <img src="https://img.shields.io/badge/django rest framework-ca64f4?style=for-the-badge&logoColor=white">
   <br>
 
-  <img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=springBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/fly way-ED1C24?style=for-the-badge&logo=flyway&logoColor=white">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"> 
   <br>
+
+<img src="https://img.shields.io/badge/JWT-006600?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/oauth2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white">
+<br>
 
   <img src="https://img.shields.io/badge/nginx-006272?style=for-the-badge&logo=nginx&logoColor=green">
-  <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springSecurity&logoColor=white">
-  <img src="https://img.shields.io/badge/query dsl-008FC7?style=for-the-badge&logo=queryDsl&logoColor=white">
+  <img src="https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white">
+  <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   <br>
 </div>
 
