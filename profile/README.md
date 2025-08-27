@@ -16,7 +16,7 @@
 
 > ### 🗓️ 2025.07.30 - 2025.08.27
 > ### [📺 시연 영상](https://youtu.be/hbZaV8m23SU)
-> ### [📑 발표 문서]()
+> ### [📑 발표 문서](https://drive.google.com/file/d/1ghGwMBns5RcAijLpTR5dxhbrgz-mGtYG/view?usp=sharing)
 
 ---
 
